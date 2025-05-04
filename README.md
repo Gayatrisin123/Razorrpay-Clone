@@ -28,12 +28,7 @@ A modern and responsive web application built with **React**, **Tailwind CSS**, 
 
 ---
 
-## 📸 Screenshots
 
-<!-- Add more screenshots or GIFs -->
-<img src="./demo.gif" alt="Demo GIF" width="600"/>
-
----
 
 ## 📦 Installation
 
