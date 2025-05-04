@@ -34,10 +34,19 @@
 
 
 
-## 📦 Installation
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
 
 ```bash
+# Clone the repository
 git clone https://github.com/yourusername/your-repo-name.git
+
+# Navigate to project directory
 cd your-repo-name
+
+# Install dependencies
 npm install
+
+# Start development server
 npm start
