@@ -1,4 +1,8 @@
-# 🚀 Razorpay Clone
+<h1 align="center">🌐 Project Name</h1>
+
+<p align="center">
+  ✨ A responsive and dynamic web app built with <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> ✨
+</p>
 
 A modern and responsive web application built with **React**, **Tailwind CSS**, **HTML**, **CSS**, and **JavaScript**, designed to deliver seamless user experiences with elegant UI and efficient performance.
 
