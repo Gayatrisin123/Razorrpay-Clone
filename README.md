@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Project Name</h1>
+<h1 align="center">🌐 Razorpay Clone</h1>
 
 <p align="center">
   ✨ A responsive and dynamic web app built with <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> ✨
