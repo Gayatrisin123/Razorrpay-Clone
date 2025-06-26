@@ -40,7 +40,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Gayatrisin123/Razorrpay-Clone.git
 
 # Navigate to project directory
 cd your-repo-name
